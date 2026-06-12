@@ -1,5 +1,4 @@
-# TFG_Forecasting_ARI_ILI
-# ARI and ILI incidence forecasting
+# TFG: Forecasting Incidence Rates of Acute Respiratory Infections and Influenza-Like Illness
 
 This repository contains the code used for my Bachelor Thesis on short-term forecasting of weekly ARI and ILI incidence across European countries.
 
@@ -12,8 +11,6 @@ notebooks/   Main notebooks used in the project
 src/         Helper Python functions used by the notebooks
 figures/     Final figures used in the report
 ````
-
-The raw data and some generated result files are expected to follow the same local folder structure used during the project.
 
 ## Notebook order
 
